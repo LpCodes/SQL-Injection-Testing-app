@@ -5,7 +5,7 @@ This app tests a given URL for SQL injection vulnerabilities. It uses a list of 
 
 ## 📝 Disclaimer
 
-This app is for educational and ethical purposes only. The author assumes no responsibility for any misuse or damage caused by this app. Use responsibly and with proper authorization.
+TThis script is intended for educational purposes and ethical security testing only. Do not use it to attack websites without proper authorization. Unauthorized testing may violate local laws and could result in legal consequences.The author assumes no responsibility for any misuse or damage caused by this app. Use responsibly and with proper authorization
 
 ## 🚀 Usage
 
